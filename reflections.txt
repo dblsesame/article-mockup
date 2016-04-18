@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  	I have learnt figure, super and other tags and to lookup html elements and their usages on MDN reference pages.
+  	I have installed the udacity chrome extension.
+  * What has been easy?
+  	Apply tags to html documents after found out their usages.
+  * What has been difficult?
+  	Ensuring the mockup and html document are the same.  Because this step I have to basically do eyeball test and I am bound to miss things by just looking at them.
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  	Yes.  The test and modify workflow is working here.
+
+---
+
+Your response goes here!
+
+  	* The new things I learnt are:
+  	** I have learnt figure, super and other tags and to lookup html elements and their usages on MDN reference pages.
+  	** I have installed the udacity chrome extension.
+  	* Applying tags to html documents after found out their usages is easy.
+  	* Ensuring the mockup and html document are the same is difficult.  Because this step I have to basically do eyeball test and I am bound to miss things by just looking at them.
+  	*Yes.  The test and modify workflow is working here.
